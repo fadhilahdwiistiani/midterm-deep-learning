@@ -6,6 +6,12 @@ Repository ini dibuat untuk memenuhi Tugas Midterm Mata Kuliah Deep Learning. Se
 
 # 📘 Brief Overview of the Project
 Proyek ini berisi proses dasar penerapan deep learning, mulai dari pemrosesan data, pembangunan model, proses pelatihan, serta penyajian hasil evaluasi. Semua langkah dikerjakan dan disimpan dalam bentuk notebook agar mudah dipelajari kembali.
+Proyek ini menggambarkan penerapan teknik-teknik dasar deep learning pada berbagai jenis permasalahan. Di dalamnya terdapat:
+1. proses eksplorasi dan transformasi data,
+2. perancangan arsitektur model sesuai kebutuhan,
+3. pelatihan model serta pengaturan hyperparameter,
+4. dan penyajian hasil evaluasi melalui berbagai visualisasi.
+Setiap tahap dikerjakan dalam format notebook agar mudah ditinjau, dipelajari ulang, maupun direproduksi.
 
 # 🤖 Models and Metric Results Used
 Repository ini menggunakan beberapa model deep learning sesuai instruksi tugas.
